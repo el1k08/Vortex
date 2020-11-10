@@ -184,3 +184,7 @@
 4. Перейдите в настройки виртуальной машины -> Порты -> USB
 5. Добвьте клавиатуру в список фильтров
 6. Можете приступить к обновлени прошивки
+
+Материал взят:  
+[How to setup Vortex Race 3 for Mac](https://gist.github.com/arogulin/b67899013c546f900df0a2e917dad44f#gistcomment-3400399)  
+[funkeys.com.ua](https://funkeys.com.ua/shop/vortex/rgb-race3)
